@@ -5,14 +5,32 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Plugins](https://img.shields.io/badge/plugins-88-green.svg)
 ![License](https://img.shields.io/badge/license-Various-orange.svg)
+[![Official Wiki](https://img.shields.io/badge/Official-qBittorrent%20Wiki-blue.svg)](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 
 **Curated by DXM369**
 
 A comprehensive collection of 88 qBittorrent search engine plugins for public and private torrent sites.
 
+**📌 All plugins sourced from the [Official qBittorrent Search Plugins Wiki](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)**
+
 [Download](#installation) • [Usage](#how-to-use) • [Plugins List](#plugins-included) • [Contributing](#contributing)
 
 </div>
+
+---
+
+## 🔗 About This Collection
+
+This repository is a **curated bundle** of all available search plugins from the official qBittorrent community wiki. Instead of downloading plugins one-by-one, you get:
+
+✅ All 88 plugins in one place
+✅ Organized by public/private sites
+✅ Automated update scripts
+✅ Ready-to-use with proper naming
+
+**Original Source**: [qBittorrent Unofficial Search Plugins Wiki](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
+
+> **Note**: All credit goes to the original plugin authors. This is simply a convenient collection point.
 
 ---
 
