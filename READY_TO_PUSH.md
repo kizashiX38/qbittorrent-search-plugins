@@ -5,7 +5,7 @@
 Your qBittorrent Search Plugins Collection is fully prepared and ready to go live!
 
 ### ✅ Completed:
-- ✅ 88 plugins downloaded (66 public + 22 private)
+- ✅ 82 plugins downloaded (61 public + 21 private)
 - ✅ All files renamed to proper qBittorrent format
 - ✅ Professional README with DXM369 branding
 - ✅ Attribution to official qBittorrent wiki
@@ -19,7 +19,7 @@ Your qBittorrent Search Plugins Collection is fully prepared and ready to go liv
 ### Method 1: Using the Script (Easiest)
 
 ```bash
-cd /c/Users/ag/qbittorrent_search_plugins
+cd qbittorrent_search_plugins
 bash push_to_github.sh
 ```
 
@@ -32,13 +32,13 @@ The script will guide you through:
 1. **Create GitHub Repository**:
    - Go to: https://github.com/new
    - Name: `qbittorrent-search-plugins`
-   - Description: `A comprehensive collection of 88 qBittorrent search engine plugins`
+   - Description: `A comprehensive collection of 82 qBittorrent search engine plugins`
    - Make it **PUBLIC**
    - **Don't** initialize with anything
 
 2. **Push Your Code**:
    ```bash
-   cd /c/Users/ag/qbittorrent_search_plugins
+   cd qbittorrent_search_plugins
    git remote add origin https://github.com/DXM369/qbittorrent-search-plugins.git
    git branch -M main
    git push -u origin main
@@ -69,8 +69,8 @@ Read `LISTING_ON_OFFICIAL_WIKI.md` for instructions on:
 
 ```
 qbittorrent_search_plugins/
-├── public_sites/          # 66 plugins
-├── private_sites/         # 22 plugins
+├── public_sites/          # 61 plugins
+├── private_sites/         # 21 plugins
 ├── README.md              # Beautiful documentation
 ├── .gitignore
 ├── push_to_github.sh      # Easy push script

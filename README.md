@@ -3,13 +3,13 @@
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
-![Plugins](https://img.shields.io/badge/plugins-88-green.svg)
+![Plugins](https://img.shields.io/badge/plugins-82-green.svg)
 ![License](https://img.shields.io/badge/license-Various-orange.svg)
 [![Official Wiki](https://img.shields.io/badge/Official-qBittorrent%20Wiki-blue.svg)](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 
 **Curated by DXM369**
 
-A comprehensive collection of 88 qBittorrent search engine plugins for public and private torrent sites.
+A comprehensive collection of 82 qBittorrent search engine plugins for public and private torrent sites.
 
 **📌 All plugins sourced from the [Official qBittorrent Search Plugins Wiki](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)**
 
@@ -23,7 +23,7 @@ A comprehensive collection of 88 qBittorrent search engine plugins for public an
 
 This repository is a **curated bundle** of all available search plugins from the official qBittorrent community wiki. Instead of downloading plugins one-by-one, you get:
 
-✅ All 88 plugins in one place
+✅ All 82 plugins in one place
 ✅ Organized by public/private sites
 ✅ Automated update scripts
 ✅ Ready-to-use with proper naming
@@ -36,8 +36,8 @@ This repository is a **curated bundle** of all available search plugins from the
 
 ## 📦 What's Included
 
-- **66 Public Site Plugins** - Free torrent search engines
-- **22 Private Site Plugins** - Private tracker integrations (require credentials)
+- **61 Public Site Plugins** - Free torrent search engines
+- **21 Private Site Plugins** - Private tracker integrations (require credentials)
 - **Download Scripts** - Automated download scripts for easy updates
 - **Complete Documentation** - Detailed setup and usage instructions
 
@@ -73,15 +73,15 @@ This repository is a **curated bundle** of all available search plugins from the
 
 ```
 qbittorrent-search-plugins/
-├── public_sites/              # 66 public torrent site plugins
+├── public_sites/              # 61 public torrent site plugins
 │   ├── thepiratebay.py
 │   ├── 1337x.py
 │   ├── nyaasi.py
-│   └── ... (63 more)
-├── private_sites/             # 22 private tracker plugins
+│   └── ... (58 more)
+├── private_sites/             # 21 private tracker plugins
 │   ├── rutracker.py
 │   ├── torrentleech.py
-│   └── ... (20 more)
+│   └── ... (19 more)
 ├── download_public_sites_20260111_sonnet45.sh
 ├── download_private_sites_20260111_sonnet45.sh
 ├── rename_to_original_20260111_sonnet45.sh
@@ -90,7 +90,7 @@ qbittorrent-search-plugins/
 
 ## 🎯 Plugins Included
 
-### Public Sites (66 Plugins)
+### Public Sites (61 Plugins)
 
 <details>
 <summary>Click to expand full list</summary>
@@ -131,7 +131,6 @@ qbittorrent-search-plugins/
 - Online-Fix
 - PediaTorrent (2 versions)
 - Pirateiro
-- Pornrips
 - RockBox
 - Rutor
 - small-games.info
@@ -146,7 +145,6 @@ qbittorrent-search-plugins/
 - Torrent9
 - TorrentDownload
 - Torrent Downloads Pro
-- Torrenflix
 - TorrentGalaxy
 - TrahT
 - UnionDHT
@@ -158,7 +156,7 @@ qbittorrent-search-plugins/
 
 </details>
 
-### Private Sites (22 Plugins)
+### Private Sites (21 Plugins)
 
 <details>
 <summary>Click to expand full list</summary>
@@ -167,7 +165,6 @@ qbittorrent-search-plugins/
 
 - BakaBT
 - DanishBytes
-- FileList
 - GazelleGames
 - IPTorrents
 - Kinozal

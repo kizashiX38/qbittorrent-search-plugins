@@ -8,13 +8,13 @@ Your local repository is ready! Follow these steps to push it to GitHub:
 
 2. **Create Repository**:
    - Repository name: `qbittorrent-search-plugins`
-   - Description: `A comprehensive collection of 88 qBittorrent search engine plugins for public and private torrent sites. Curated by DXM369`
+   - Description: `A comprehensive collection of 82 qBittorrent search engine plugins for public and private torrent sites. Curated by DXM369`
    - Make it **Public**
    - **DO NOT** initialize with README, .gitignore, or license (we already have these)
 
 3. **Push your code**:
    ```bash
-   cd /c/Users/ag/qbittorrent_search_plugins
+   cd qbittorrent_search_plugins
    git remote add origin https://github.com/DXM369/qbittorrent-search-plugins.git
    git branch -M main
    git push -u origin main
@@ -37,15 +37,15 @@ Your local repository is ready! Follow these steps to push it to GitHub:
 
 3. **Create and push**:
    ```bash
-   cd /c/Users/ag/qbittorrent_search_plugins
-   gh repo create qbittorrent-search-plugins --public --source=. --description="A comprehensive collection of 88 qBittorrent search engine plugins for public and private torrent sites. Curated by DXM369" --push
+   cd qbittorrent_search_plugins
+   gh repo create qbittorrent-search-plugins --public --source=. --description="A comprehensive collection of 82 qBittorrent search engine plugins for public and private torrent sites. Curated by DXM369" --push
    ```
 
 ## What's Already Done ✅
 
 - ✅ Git repository initialized
 - ✅ Git configured with your DXM369 credentials
-- ✅ All 88 plugins added and committed
+- ✅ All 82 plugins added and committed
 - ✅ Professional README with your branding created
 - ✅ .gitignore file created
 - ✅ Initial commit made with proper attribution
@@ -54,8 +54,8 @@ Your local repository is ready! Follow these steps to push it to GitHub:
 
 ```
 qbittorrent-search-plugins/
-├── public_sites/              # 66 public torrent site plugins
-├── private_sites/             # 22 private tracker plugins
+├── public_sites/              # 61 public torrent site plugins
+├── private_sites/             # 21 private tracker plugins
 ├── download_public_sites_20260111_sonnet45.sh
 ├── download_private_sites_20260111_sonnet45.sh
 ├── rename_to_original_20260111_sonnet45.sh
