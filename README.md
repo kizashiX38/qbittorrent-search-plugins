@@ -238,7 +238,7 @@ Each plugin retains its original license from the respective authors. Please che
 
 **DXM369**
 - Email: dxm.nzt48@gmail.com
-- GitHub: [@DXM369](https://github.com/DXM369)
+- GitHub: [@DXM369](https://github.com/kizashix)
 
 ---
 
@@ -249,3 +249,4 @@ Each plugin retains its original license from the respective authors. Please che
 Made with ❤️ by DXM369
 
 </div>
+
